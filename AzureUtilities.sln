@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationInsightsQueryExecutor", "ApplicationInsightsQueryExecutor\ApplicationInsightsQueryExecutor.csproj", "{12F214EF-D719-4007-A9DD-49B9BBC9BBCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobMover", "BlobMover\BlobMover.csproj", "{9F226CD8-C1F5-4652-A5B8-8BF4D95028BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F214EF-D719-4007-A9DD-49B9BBC9BBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F214EF-D719-4007-A9DD-49B9BBC9BBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F214EF-D719-4007-A9DD-49B9BBC9BBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F214EF-D719-4007-A9DD-49B9BBC9BBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F226CD8-C1F5-4652-A5B8-8BF4D95028BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F226CD8-C1F5-4652-A5B8-8BF4D95028BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F226CD8-C1F5-4652-A5B8-8BF4D95028BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F226CD8-C1F5-4652-A5B8-8BF4D95028BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FB12E4F-4D2F-4251-98D2-AF783E39C7F7}
+	EndGlobalSection
+EndGlobal
